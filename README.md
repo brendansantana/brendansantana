@@ -6,5 +6,5 @@ Sou Desenvolvedora Fullstack em formação Kenzie Academy e estou no mundo da pr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendansantana&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/devEdiberto?style=social)](https://twitter.com/brendansantana)
-[![Linkedin: ediberto](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-nsantana/)](https://www.linkedin.com/in/brenda-nsantana/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/brendansantana?style=social)](https://twitter.com/brendansantana)
+[![Linkedin: brenda](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-nsantana/)](https://www.linkedin.com/in/brenda-nsantana/)
